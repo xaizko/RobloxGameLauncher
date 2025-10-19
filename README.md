@@ -43,7 +43,7 @@ This repository is a continuation of DeepwokenLauncher, generalized so you can c
 - Want a custom icon for your shortcut? Use a .ico file.
 - If you only have PNG or JPEG images, convert them to .ico using any free online converter:
   - Search the web for "PNG to ICO" or "JPEG to ICO" — choose a reputable converter.
-  - Convert and download the .ico file, then pass its path to the script (e.g., -Icon "C:\icons\mygame.ico").
+  - Convert and download the .ico file, then pass its path to the script when prompted
   - You can simply get the path by right clicking on the icon and then press copy as path.
   - It is recommend you place the icon inside of the provided icons folder so that you don't accidentally delete it.
 
